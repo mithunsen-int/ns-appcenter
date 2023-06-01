@@ -11,6 +11,9 @@
     "ios:simulator": "npx react-native run-ios --simulator=\"iPhone 14 (16.4)\""
   },
   "dependencies": {
+    "appcenter": "4.4.5",
+    "appcenter-analytics": "4.4.5",
+    "appcenter-crashes": "4.4.5",
     "react": "18.2.0",
     "react-native": "0.71.8"
   },
